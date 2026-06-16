@@ -1,1 +1,1 @@
-<?php echo "Uji Coba"; ?>
+<?php echo "uji coba transaksi"; ?>

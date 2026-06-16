@@ -1,0 +1,8 @@
+name: CI/CD Pipeline
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Uji Coba Sukses
+        run: echo "Sistem berhasil diuji!"
